@@ -15,6 +15,8 @@ pub enum Language {
 	ChineseSimplified = 5,
 	ChineseTraditional = 6,
 	Korean = 7,
+	/// Traditional Chinese for Taiwan/HK/Macau region client
+	ChineseTraditionalTW = 8,
 
 	/// An unknown language ID.
 	///
